@@ -10,3 +10,5 @@ server has been selected or chosen 5 times during the simulation. The fractional
 is being utilized or allocated resources relative to other servers in the network. By tracking the fractional assignment, it becomes possible to analyze the 
 load distribution, resource utilization, or performance characteristics of the system based on the number of times 
 servers are chosen or assigned resources in a fractional manner.
+
+ This paper is accepted for presentation in GLOBECOM 2023, Kuala Lumpur. Awaiting all questions and feedback!! :)
